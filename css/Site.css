@@ -10,3 +10,7 @@
 .bg-primary .dataTables_wrapper .dataTables_length, .bg-primary .dataTables_wrapper .dataTables_filter, .bg-primary .dataTables_wrapper .dataTables_info, .bg-primary .dataTables_wrapper .dataTables_processing, .bg-primary .dataTables_wrapper .dataTables_paginate {
     color: rgba(255, 255, 255, 0.5) !Important;
 }
+
+.dataTables_wrapper .even {
+    color: rgba(0, 0, 0, 1) !Important;
+}
